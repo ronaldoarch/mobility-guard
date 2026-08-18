@@ -1,5 +1,10 @@
 # Mobility Guard
 
+[![CI](https://github.com/ronaldoarch/mobility-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/ronaldoarch/mobility-guard/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.12+-blue)
+![Next.js](https://img.shields.io/badge/Next.js-16-black)
+![License](https://img.shields.io/badge/license-portfolio-lightgrey)
+
 Plataforma de engenharia de IA para cobranças de mobilidade. Registra transações, detecta
 anomalias com regras auditáveis, enriquece explicações de forma assíncrona e apresenta a operação
 em um dashboard responsivo.
