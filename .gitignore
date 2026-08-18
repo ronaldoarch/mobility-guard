@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.coverage
+.env
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.venv
+.venv.stale-*/
+data/*.db
+dist/
+htmlcov/
+dashboard/.next/
+dashboard/node_modules
